@@ -5,7 +5,7 @@
 Author:  **Alexandra Slezáková (xsleza20)**
 
 ## Build
-The project is compiled using the `swipl`  with the command `make` and program `flp20-log` is created
+The project is compiled using the `swipl`  with the command `make` and program `flp20-log` is created.
 
 ## Run
 When program is created, it can be run as follows:

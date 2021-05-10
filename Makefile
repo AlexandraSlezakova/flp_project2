@@ -11,4 +11,4 @@ pack:
 	zip flp-log-xsleza20 Makefile flp20-log.pl README.md -r tests/*
 
 clean:
-	@rm -rf flp20-log xsleza20.zip
+	@rm -rf flp20-log flp-log-xsleza20.zip

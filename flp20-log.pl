@@ -5,6 +5,7 @@
 :- dynamic vertex/1.
 
 main :- 
+	prompt(_, ''),
 	/* read lines from input */
 	read_lines(Lines), 
 	/* create edges, ignore invalid lines and parallel edges */
